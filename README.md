@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l0Hlud2J5E2R8F8wU/giphy.gif" alt="Niloy Chandra Datta Header" width="100%" />
+  <img src="header_wave.png" alt="Niloy Chandra Datta Header" width="100%" />
 
 ### 🚀 Crafting Resilient Systems at Scale
 
