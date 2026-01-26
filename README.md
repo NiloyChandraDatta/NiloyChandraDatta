@@ -5,7 +5,7 @@
 
   <div align="center">
     <a href="https://github.com/NiloyChandraDatta">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Mastering+Spring+Boot+%26+Kotlin;Crafting+Native+Android+Experiences;Architecting+Cloud+Solutions" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Mastering+Spring+Boot+%26+Kotlin;Crafting+Native+Android+Experiences;Architecting+Cloud+Solutions" alt="Typing SVG" />
     </a>
   </div>
   
