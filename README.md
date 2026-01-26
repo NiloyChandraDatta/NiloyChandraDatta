@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,255;0,100,200,255&height=300&section=header&text=Niloy%20Chandra%20Datta&fontSize=90&fontColor=fff&animation=fadeIn&fontAlign=50&desc=Full-Stack%20%E2%80%A2%20Android%20%E2%80%A2%20Cloud%20Architecture&descAlign=50&descSize=20" alt="Niloy Chandra Datta Header" width="100%" />
+  <img src="header_wave.png" alt="Niloy Chandra Datta Header" width="100%" />
 
 ### 🚀 Crafting Resilient Systems at Scale
 
